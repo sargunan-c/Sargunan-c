@@ -94,24 +94,26 @@ A Python-based validation framework that executes a compiled C controller and co
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://ghstats.dev/api/card?username=Sargunan-1619&amp;theme=github_dark"
-    alt="Live GitHub profile statistics"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sargunan-1619&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true"
-    alt="Most-used programming languages"
-    width="48%"
-  />
+  <a href="https://github.com/Sargunan-1619">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sargunan-1619&theme=github_dark"
+      alt="GitHub contribution and profile summary"
+      width="100%"
+    />
+  </a>
 </p>
 
+---
+
+## 🛠️ Featured Embedded Projects
+
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Sargunan-1619&amp;theme=github-dark-blue&amp;hide_border=true"
-    alt="GitHub contribution streak"
-    width="70%"
-  />
+  <a href="https://github.com/Sargunan-1619/sensor-fault-controller">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sargunan-1619&repo=sensor-fault-controller&theme=github_dark&hide_border=true" alt="Sensor Fault Controller" width="48%" />
+  </a>
+  <a href="https://github.com/Sargunan-1619/firmware-validation-framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sargunan-1619&repo=firmware-validation-framework&theme=github_dark&hide_border=true" alt="Firmware Validation Framework" width="48%" />
+  </a>
 </p>
 
 ---
