@@ -1,7 +1,7 @@
  <!-- EMBEDDED FIRMWARE & VALIDATION PROFILE README -->
 
 <p align="center">
-  <img src="./assets/embedded-banner.png" alt="Sargunan C | Embedded Firmware and Validation Engineer" width="100%">
+  <img src="./banner.png" alt="Sargunan C — Embedded Firmware and Validation Engineer" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Sargunan C 👋</h1>
